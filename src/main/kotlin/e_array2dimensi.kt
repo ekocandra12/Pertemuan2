@@ -1,5 +1,5 @@
 fun main(){
-//initialize a 2D array
+//initialize a 2Dimensi array
     var cinema = arrayOf<Array<Int>>()
     for (i in 0..4) {
         var array = arrayOf<Int>()
