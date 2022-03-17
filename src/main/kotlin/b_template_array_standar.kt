@@ -1,5 +1,5 @@
 fun main(){
-    // Creates an Array<String> with sizes 5 and values ["0", "1", "4", "9", "16"]
+    // Creates an Array<String> with sizes 5 and values  ["0", "1", "4", "9", "16"]
     val asc = Array(5){
         i -> (i*i).toString()
     }
